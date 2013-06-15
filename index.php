@@ -1,3 +1,5 @@
 <?php
-	echo "Hallo";
+	$welcome ="Hallo, lieber User!";
+
+	echo $welcome;
 ?>
